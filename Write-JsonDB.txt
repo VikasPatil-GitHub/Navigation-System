@@ -1,0 +1,66 @@
+{
+	"waypoints": [
+	  {
+	    "name": "PENNY-markt discounter",
+	    "latitude": 49.8978,
+	    "longitude": 8.8426
+	  },
+	  {
+	    "name": "Quartier 56, Dieburg",
+	    "latitude": 49.9053,
+	    "longitude": 8.8607
+	  },
+	  {
+	    "name": "dieburg",
+	    "latitude": 87,
+	    "longitude": 91
+	  },
+	  {
+	    "name": "h_da, Darmstadt",
+	    "latitude": 49.8664,
+	    "longitude": 8.6333
+	  },
+	  {
+	    "name": "middle",
+	    "latitude": 49.7646,
+	    "longitude": 8.7664
+	  }
+	],
+	"pois": [
+	  {
+	    "name": "Dieburg Bahnhof",
+	    "latitude": 49.9034,
+	    "longitude": 8.8405,
+	    "type": "Railway Station",
+	    "description": "Dieburg Railway station"
+	  },
+	  {
+	    "name": "Dieburg Hochschule Nord",
+	    "latitude": 49.9024,
+	    "longitude": 8.8542,
+	    "type": "Bus Stop",
+	    "description": "Nearest bus stop to home"
+	  },
+	  {
+	    "name": "Edeka Aktiv Markt",
+	    "latitude": 49.8964,
+	    "longitude": 8.8288,
+	    "type": "Super market",
+	    "description": "Nearest super market to home"
+	  },
+	  {
+	    "name": "Irish Pub",
+	    "latitude": 49.8783,
+	    "longitude": 8.6595,
+	    "type": "Pubs and Bars",
+	    "description": "Nearest pub to college"
+	  },
+	  {
+	    "name": "PENNY-markt discounter",
+	    "latitude": 49.8978,
+	    "longitude": 8.8426,
+	    "type": "Super market",
+	    "description": "Best super market near home"
+	  }
+	]
+}

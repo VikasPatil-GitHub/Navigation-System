@@ -1,0 +1,4 @@
+Railway Station;Dieburg Bahnhof;Dieburg Railway station;49.9034;8.8405
+Bus Stop;Dieburg Hochschule Nord;Nearest bus stop to home;49.9024;8.8542
+Super market;Edeka Aktiv Markt;Nearest super market to home;49.8964;8.8288
+Super market;PENNY-markt discounter;Best super market near home;49.8978;8.8426

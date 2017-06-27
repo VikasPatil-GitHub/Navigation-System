@@ -1,0 +1,4 @@
+PENNY-markt discounter;49.8978;8.8426
+Quartier 56, Dieburg;49.9053;8.8607
+h_da, Darmstadt;49.8664;8.6333
+middle;49.7646;8.7664
